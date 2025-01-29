@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Básica</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a mi Página Web</h1>
+    </header>
+    
+    <section>
+        <p>¡Hola! Este es un ejemplo básico de una página web usando HTML.</p>
+        <p>Puedes aprender más sobre HTML en <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">MDN Web Docs</a>.</p>
+    </section>
+
+    <footer>
+        <p>Creado por Juan Pablo</p>
+    </footer>
+</body>
+</html>
+
